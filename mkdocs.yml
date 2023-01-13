@@ -6,6 +6,8 @@ nav:
   - Home: index.md
   - Pages: 
     - first: pages/first.md
+      - second: pages/first.md
+        - third: pages/first.md
 
 site_author: Sunny Bhaveen Chandra
 site_description: >-
