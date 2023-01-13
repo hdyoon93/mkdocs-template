@@ -9,8 +9,8 @@ site_description: >-
   DESCRIPTION
 
 # Repository
-repo_name: c17hawke/REPO_NAME
-repo_url: https://github.com/c17hawke/REPO_NAME
+repo_name: hdyoon93/mkdocs-template
+repo_url: https://github.com/hdyoon93/mkdocs-template
 
 # Configuration
 theme:
