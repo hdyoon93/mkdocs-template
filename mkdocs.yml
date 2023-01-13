@@ -5,7 +5,7 @@ site_name: REPO_NAME_OR_SITE_NAME
 nav:
   - Home: index.md
   - Pages: 
-    - title: pages/first.md
+    - first: pages/first.md
 
 site_author: Sunny Bhaveen Chandra
 site_description: >-
