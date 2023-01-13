@@ -5,9 +5,10 @@ site_name: REPO_NAME_OR_SITE_NAME
 nav:
   - Home: index.md
   - Pages: 
-    - first: pages/first.md
-      - second: pages/first.md
-        - third: pages/first.md
+    - level2:
+      - level3:
+        - level5:
+          - level4: pages/first.md
 
 site_author: Sunny Bhaveen Chandra
 site_description: >-
