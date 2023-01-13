@@ -1,7 +1,7 @@
 # Project information
-site_name: REPO_NAME_OR_SITE_NAME
-# defeine TOC or order of website-
+site_name: 나의 문서
 
+# defeine TOC or order of website-
 nav:
   - Home: index.md
   - Pages: 
@@ -10,10 +10,9 @@ nav:
         - level4:
           - first: pages/first.md
 
-site_author: Sunny Bhaveen Chandra
+site_author: 윤형두
 site_description: >-
-  DESCRIPTION
-
+  내 문서를 관리하는 곳
 # Repository
 repo_name: hdyoon93/mkdocs-template
 repo_url: https://github.com/hdyoon93/mkdocs-template
@@ -26,7 +25,7 @@ theme:
     - navigation.sections
     - toc.integrate
     - navigation.top
-  language: en
+  language: ko
   palette:
     - scheme: default
       toggle:
@@ -45,13 +44,13 @@ theme:
 extra:
   social:
     - icon: fontawesome/brands/github-alt
-      link: https://github.com/c17hawke
+      link: https://github.com/hdyoon93
     - icon: fontawesome/brands/twitter
-      link: https://twitter.com/c17hawke
+      link: https://twitter.com/hdyoon93
     - icon: fontawesome/brands/linkedin
-      link: https://linkedin.com/in/c17hawke
+      link: https://linkedin.com/in/hdyoon93
     - icon: fontawesome/brands/instagram
-      link: https://www.instagram.com/c17hawke/
+      link: https://www.instagram.com/hdyoon93
 
 extra_javascript:
   - javascripts/mathjax.js
@@ -76,4 +75,4 @@ plugins:
   - search
 
 copyright: |
-  &copy; 2022 <a href="https://github.com/c17hawke"  target="_blank" rel="noopener">Sunny Bhaveen Chandra</a>
+  &copy; 2022 <a href="https://github.com/hdyoon93"  target="_blank" rel="noopener">Hyungdoo Yoon</a>
