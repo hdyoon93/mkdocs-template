@@ -7,8 +7,8 @@ nav:
   - Pages: 
     - level2:
       - level3:
-        - level5:
-          - level4: pages/first.md
+        - level4:
+          - first: pages/first.md
 
 site_author: Sunny Bhaveen Chandra
 site_description: >-
